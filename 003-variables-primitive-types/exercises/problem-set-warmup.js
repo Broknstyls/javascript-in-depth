@@ -13,3 +13,8 @@
 
    HINT2: Make sure your terminal is "looking at" the correct folder where your code is
 */
+const string = 'hi';
+const Number = 4;
+const Boolean = false;
+const null1 = null;
+const Undefined1 = undefined;
