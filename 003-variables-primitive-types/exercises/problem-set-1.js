@@ -7,5 +7,10 @@
     After each of the above steps, log out the variable to the terminal with console.log.
 */
 let name = 'evans';
+console.log(name);
 name = 'kendrick lamar';
+console.log(name);
 name = true;
+console.log(name);
+name = 42;
+console.log(name);

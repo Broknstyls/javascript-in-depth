@@ -5,3 +5,10 @@
     
     Repeat the above steps but try using a const variable. What happens?
 */
+let name;
+name = 'Moo!'
+console.log(name);
+
+const name1;
+name = 'moo'
+console.log(name);
