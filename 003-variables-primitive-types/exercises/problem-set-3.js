@@ -6,3 +6,5 @@
 
     *HINT* - MDN Web Docs are a good resource
 */
+name = 5;
+console.log(typeof name);
